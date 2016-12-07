@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Hello world
+
+Mike talking
+
+Now I am editing from the online console
+=======
+>>>>>>> parent of 8ed95ca... Changes by Mike Wottrich
